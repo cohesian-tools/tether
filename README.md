@@ -282,8 +282,3 @@ PYTHONPATH=. PYTHONDONTWRITEBYTECODE=1 \
 ## License
 
 Tether is available under the [MIT License](LICENSE).
-
-## Presentation metadata
-
-[`front/`](front/README.md) contains the portable presentation manifest, cover,
-and applicable notices for catalogs such as Cohesian and a personal portfolio.

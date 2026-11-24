@@ -1,3 +1,0 @@
-Presentation artwork and description: Copyright (c) 2026 Cohesian, CC BY 4.0.
-Source: https://github.com/cohesian/site
-Copied without changes. Tool implementation retains its own repository license.
